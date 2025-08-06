@@ -29,6 +29,6 @@ Aunque la Tienda 1 tiene la calificación de clientes más baja, la Tienda 4 es 
 
 ### Cómo utilizar este proyecto
 El proyecto está desarrollado en un notebook de Google Colab. Para ejecutar el código y reproducir el análisis, siga estos pasos:
-1.  Abra el archivo `AluraStoreLatam (2).ipynb` en Google Colab.
+1.  Abra el archivo `Challenge_AluraStore.ipynb` en Google Colab.
 2.  Ejecute cada celda de código en orden.
 3.  Los resultados numéricos y los gráficos se mostrarán en la salida de cada celda.
